@@ -7,6 +7,7 @@
 - `curriculum.md`: 2시간 전체 진행안과 실습 루틴 설계
 - `facilitator-guide.md`: 진행자가 모임 전에 준비하고 현장에서 운영할 절차
 - `participant-worksheet.md`: 참가자별 목표 분해, 프롬프트, 검증, 회고 기록지
+- `execution-practice-sheet.md`: 현장에서 바로 따라가는 단계별 실행 실습지
 
 ## 운영 원칙
 
